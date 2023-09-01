@@ -79,9 +79,7 @@ namespace Practice
                     operators.RemoveAt(arrayIndex);
                 }
             }
-
-            
-            Console.WriteLine(res);
+            Console.WriteLine("The result is: "+res);
         }
     }
 }
